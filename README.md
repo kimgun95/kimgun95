@@ -1,4 +1,6 @@
-### Hi there 👋
+# KIM GUN :sunglasses:
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarjs7879)](https://solved.ac/rlarjs7879/)
 
 <!--
 **kimgun95/kimgun95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
