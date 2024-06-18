@@ -17,7 +17,7 @@ Cloud, k8s, AWS에 관심이 많습니다 😆
 ### Tech Blog   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gunkim95)](https://velog.io/@gunkim95)  
  <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gunkim95)](https://velog-readme-stats.vercel.app/api/redirect?name=gunkim95)   -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gunkim95&slug=NextRise-2024-취업생의-후기)](https://github.com/eungyeole/velog-readme-stats)   
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gunkim95&slug=NextRise-2024-취업생의-후기)](https://velog.io/@gunkim95/NextRise-2024-%EC%B7%A8%EC%97%85%EC%83%9D%EC%9D%98-%ED%9B%84%EA%B8%B0)   
 
 ### 🧠 Problem Solving   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlarjs7879)](https://solved.ac/rlarjs7879)
