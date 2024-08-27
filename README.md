@@ -17,8 +17,7 @@ Cloud, k8s, AWS에 관심이 많습니다 😆
 
 ### Tech Blog   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=gunkim95)](https://velog.io/@gunkim95)  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gunkim95&slug=개발이-좋아서-시작했던-걸까)](https://velog.io/@gunkim95/%EA%B0%9C%EB%B0%9C%EC%9D%B4-%EC%A2%8B%EC%95%84%EC%84%9C-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8D%98-%EA%B1%B8%EA%B9%8C)
-<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gunkim95)](https://velog-readme-stats.vercel.app/api/redirect?name=gunkim95)  -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gunkim95)](https://velog-readme-stats.vercel.app/api/redirect?name=gunkim95)
 
 ### 🧠 Problem Solving   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rlarjs7879)](https://solved.ac/rlarjs7879)
