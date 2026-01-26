@@ -4,9 +4,9 @@
 - Backend / Cloud Engineer (Java Spring, AWS)
 - 날씨의 아이 ☀️
 
-### Open Source
+### Open Source Contribution
 
-- **Contributor:** Hibernate Reactive / [[4.3] Add regression test for cascade all-delete-orphan](https://github.com/hibernate/hibernate-reactive/pull/3012)
+- Hibernate Reactive / [[4.3] Add regression test for cascade all-delete-orphan](https://github.com/hibernate/hibernate-reactive/pull/3012)
 
 ### Tech Blog   
 
